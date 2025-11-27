@@ -86,6 +86,9 @@ Always open to collaborating on modern infrastructure, internal developer platfo
 - **Kubernetes security**, observability, and operator patterns  
 - **Python and Go tooling** for cloud automation and developer experience
 
+Specialising in:
+**Cloud Platform Engineering | DevSecOps | Infrastructure Automation | Kubernetes Operations | Internal Developer Platforms | Cloud Platform Architecture**
+
 ### What I enjoy solving:
 - Repeatability and automation of complex infrastructure  
 - Secure cloud environments and least-privilege designs  
@@ -94,13 +97,6 @@ Always open to collaborating on modern infrastructure, internal developer platfo
 - Reliability, cost optimisation, and platform governance
 
 ---
-
-## 🎯 Career Direction
-
-Specialising in:
-**Cloud Platform Engineering | DevSecOps | Infrastructure Automation | Kubernetes Operations | Internal Developer Platforms | Cloud Platform Architecture**
-
-
 ## 📝 Blog & Writing
 
 I write about modern cloud engineering, DevSecOps, automation, and building scalable developer platforms.  
@@ -130,7 +126,7 @@ If you're working on cloud infrastructure, platform engineering, or automation-h
 
 📩 **Reach out or drop a message. Always happy to chat tech, automation, and ideas.**
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/#)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Get In Touch](https://img.shields.io/badge/Get_In_Touch-667eea?style=for-the-badge&logo=envelope&logoColor=white)](https://forms.clickup.com/9005123715/f/8cbyj43-38172/2BXE69H671UOXBKCSJ)
 
 ---
