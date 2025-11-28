@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Cloud+Platform+Engineer+%7C+DevSecOps+%7C+Automation;Building+Secure+%26+Scalable+Infrastructure;Dream+It.+Build+It.+Ship+It.+Automate+It.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Cloud+Platform+%7C+DevSecOps+%7C+Cloud+Architecture;Building+Secure+%26+Scalable+Infrastructure;Dream+It.+Build+It.+Ship+It.+Automate+It.)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🌍 About Me
 
-I'm a Cloud Platform & DevSecOps Engineer passionate about automation, security, and building resilient cloud-native infrastructure. I specialise in designing systems that are **scalable, observable, repeatable, and secure by default**.
+I'm passionate about automation, security, and building resilient cloud-native infrastructure. I specialise in designing systems that are **scalable, observable, repeatable, and secure by default**.
 
 I love turning complex cloud challenges into elegant, automated solutions ranging from Kubernetes platforms to fully codified cloud environments with Terraform and GitOps. My focus is on **developer experience, reliability, and operational excellence**.
 
@@ -83,7 +83,8 @@ Always open to collaborating on modern infrastructure, internal developer platfo
 - **Automated CI/CD pipelines** with security scanning baked in  
 - **DevSecOps practices**, including IaC scanning, SBOMs, and secure supply chains  
 - **Internal Developer Platforms** using Backstage  
-- **Kubernetes security**, observability, and operator patterns  
+- **Kubernetes security**, observability, and operator patterns
+- **Cloud Platform Engineering** on GCP (GKE, IAM, VPC, Cloud Functions, Cloud Run, Cloud Monitoring - Logging - Trace)  
 - **Python and Go tooling** for cloud automation and developer experience
 
 Specialising in:
@@ -100,7 +101,7 @@ Specialising in:
 ## 📝 Blog & Writing
 
 I write about modern cloud engineering, DevSecOps, automation, and building scalable developer platforms.  
-My content focuses on practical, real-world patterns such as Kubernetes, IaC, security automation, GitOps, and cloud-native architecture.
+My content focuses on practical hobby projects with real-world patterns such as Kubernetes, IaC, security automation, GitOps, and cloud-native architecture.
 
 If you're into cloud automation, platform engineering, or secure software delivery, you might find something useful here:
 
